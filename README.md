@@ -4,6 +4,6 @@ my home
 ## TODO
 
 ### make directories & files
-- [ ] index.html
-- [ ] css/style.css
-- [ ] images/
+- [ ] 'index.html'
+- [ ] 'css/style.css'
+- [ ] 'images/'
