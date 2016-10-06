@@ -13,4 +13,5 @@ body{
 h1 {
 	font-weight: 100;
 	letter-spacing: 0.23em;
+	display: block;
 }
